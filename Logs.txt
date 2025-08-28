@@ -1,0 +1,415 @@
+Logs 
+Time || Action
+
+
+[2025-07-04 | 21:00:13]||admin  Login SuccessFully 
+[2025-07-04 | 21:00:54]||admin  Login SuccessFully 
+[2025-07-04 | 21:03:55]||admin  Added aftab as a Manager
+[2025-07-04 | 21:07:26]||admin  Login SuccessFully 
+[2025-07-04 | 21:07:50]||admin  Login SuccessFully 
+[2025-07-04 | 21:10:59]||admin  Login SuccessFully 
+[2025-07-04 | 21:13:47]||admin  Login SuccessFully 
+[2025-07-04 | 21:14:06]||SAD News admin  Removed aftab as a 'Manager'
+[2025-07-04 | 21:23:48]||admin  Login SuccessFully 
+[2025-07-04 | 21:24:24]||admin Viewed the Employ list
+[2025-07-04 | 21:27:25]||admin  Login SuccessFully 
+[2025-07-04 | 21:27:57]||Admin Changed the Chicken Stock 129
+[2025-07-04 | 21:55:00]||admin  Login SuccessFully 
+[2025-07-04 | 21:56:35]||admin  Login SuccessFully 
+[2025-07-04 | 21:58:15]||admin  Login SuccessFully 
+[2025-07-04 | 22:10:55]||admin  Login SuccessFully 
+[2025-07-04 | 22:11:35]||admin  Added chef1 as a 'chef'
+[2025-07-04 | 22:11:37]||admin Existed the Menu page 
+[2025-07-04 | 22:12:25]||admin  Login SuccessFully 
+[2025-07-04 | 22:14:17]||admin  Login SuccessFully 
+[2025-07-04 | 22:14:49]||admin  Added chef2 as a 'chef'
+[2025-07-04 | 22:16:55]||admin  Login SuccessFully 
+[2025-07-04 | 22:17:39]||admin  Login SuccessFully 
+[2025-07-04 | 22:18:25]||admin  Login SuccessFully 
+[2025-07-04 | 22:19:30]||admin  Login SuccessFully 
+[2025-07-04 | 22:20:20]||admin  Added managerNo1 as a 'manager'
+[2025-07-04 | 22:24:29]||admin  Login SuccessFully 
+[2025-07-04 | 22:24:48]||admin  Added ManagerNO3 as a 'manager'
+[2025-07-04 | 22:25:21]||SAD News admin  Removed ManagerNO3 as a 'Manager'
+[2025-07-04 | 22:33:06]||admin  Login SuccessFully 
+[2025-07-04 | 22:33:21]||admin  Added ManagerNO3 as a 'Manager'
+[2025-07-04 | 22:34:15]||admin Viewed the Employ list
+[2025-07-04 | 22:35:00]||admin  Login SuccessFully 
+[2025-07-04 | 22:38:08]||admin  Login SuccessFully 
+[2025-07-04 | 22:38:12]||admin Viewed the Employ list
+[2025-07-04 | 22:40:46]||admin  Login SuccessFully 
+[2025-07-04 | 22:40:49]||admin Viewed the Employ list
+[2025-07-04 | 22:43:56]||admin  Login SuccessFully 
+[2025-07-04 | 22:43:58]||admin Viewed the Employ list
+[2025-07-04 | 22:45:39]||admin  Login SuccessFully 
+[2025-07-04 | 22:45:42]||admin Viewed the Employ list
+[2025-07-04 | 22:46:50]||admin  Login SuccessFully 
+[2025-07-04 | 22:46:56]||admin Viewed the Employ list
+[2025-07-04 | 22:48:28]||admin  Login SuccessFully 
+[2025-07-04 | 22:48:31]||admin Viewed the Employ list
+[2025-07-04 | 22:49:20]||admin  Login SuccessFully 
+[2025-07-04 | 22:50:04]||admin  Login SuccessFully 
+[2025-07-04 | 22:50:35]||admin  Added moiz as a 'seller'
+[2025-07-04 | 22:50:45]||admin Viewed the Employ list
+[2025-07-04 | 22:51:53]||admin  Login SuccessFully 
+[2025-07-04 | 22:52:17]||admin  Added Shahid as a 'chef'
+[2025-07-04 | 22:52:19]||admin Viewed the Employ list
+[2025-07-04 | 22:53:05]||admin  Login SuccessFully 
+[2025-07-04 | 22:53:07]||admin Viewed the Employ list
+[2025-07-04 | 22:53:27]||admin  Login SuccessFully 
+[2025-07-04 | 22:53:29]||admin Viewed the Employ list
+[2025-07-04 | 22:53:59]||admin  Login SuccessFully 
+[2025-07-04 | 22:54:01]||admin Viewed the Employ list
+[2025-07-04 | 22:56:16]||admin  Login SuccessFully 
+[2025-07-04 | 22:56:22]||admin Viewed the Employ list
+[2025-07-04 | 22:57:09]||admin  Login SuccessFully 
+[2025-07-04 | 22:57:20]||admin Viewed the Employ list
+[2025-07-04 | 23:00:11]||admin  Login SuccessFully 
+[2025-07-04 | 23:00:14]||admin Viewed the Employ list
+[2025-07-04 | 23:01:27]||admin  Login SuccessFully 
+[2025-07-04 | 23:01:40]||admin Viewed the Employ list
+[2025-07-04 | 23:03:35]||admin  Login SuccessFully 
+[2025-07-04 | 23:03:41]||admin Viewed the Employ list
+[2025-07-04 | 23:04:27]||admin  Login SuccessFully 
+[2025-07-04 | 23:04:32]||admin Viewed the Employ list
+[2025-07-04 | 23:07:21]||admin  Login SuccessFully 
+[2025-07-04 | 23:07:41]||admin  Added moiz as a 'manager'
+[2025-07-04 | 23:07:42]||admin Viewed the Employ list
+[2025-07-04 | 23:07:52]||SAD News admin  Removed moiz as a 'manager'
+[2025-07-04 | 23:08:25]||admin  Login SuccessFully 
+[2025-07-04 | 23:11:30]||admin  Login SuccessFully 
+[2025-07-04 | 23:11:32]||admin Viewed the Employ list
+[2025-07-04 | 23:13:56]||admin  Login SuccessFully 
+[2025-07-04 | 23:13:58]||admin Viewed the Employ list
+[2025-07-04 | 23:15:02]||admin  Login SuccessFully 
+[2025-07-04 | 23:15:04]||admin Viewed the Employ list
+[2025-07-04 | 23:17:03]||admin  Login SuccessFully 
+[2025-07-04 | 23:17:06]||admin Viewed the Employ list
+[2025-07-04 | 23:18:14]||admin  Login SuccessFully 
+[2025-07-04 | 23:18:15]||admin Viewed the Employ list
+[2025-07-04 | 23:21:55]||admin  Login SuccessFully 
+[2025-07-04 | 23:22:15]||admin  Added moiz as a 'seller'
+[2025-07-04 | 23:22:40]||SAD News admin  Removed moiz as a 'seller'
+[2025-07-04 | 23:27:00]||admin  Login SuccessFully 
+[2025-07-04 | 23:27:00]||admin Visted the Menu page 
+[2025-07-04 | 23:27:07]||admin Viewed the Logs 
+[2025-07-04 | 23:28:28]||admin  Login SuccessFully 
+[2025-07-04 | 23:28:28]||admin Visted the Menu page 
+[2025-07-04 | 23:28:39]||admin Viewed the Employ list
+[2025-07-04 | 23:28:44]||admin Viewed the Logs 
+[2025-07-04 | 23:31:06]||admin  Login SuccessFully 
+[2025-07-04 | 23:31:06]||admin Visted the Menu page 
+[2025-07-04 | 23:32:23]||admin  Login SuccessFully 
+[2025-07-04 | 23:32:23]||admin Visted the Menu page 
+[2025-07-04 | 23:33:13]||admin  Login SuccessFully 
+[2025-07-04 | 23:33:13]||admin Visted the Menu page 
+[2025-07-04 | 23:33:15]||admin Viewed the Employ list
+[2025-07-04 | 23:33:32]||SAD News admin  Removed ManagerNO3 as a 'Manager'
+[2025-07-04 | 23:34:45]||admin  Added shadab as a 'seller'
+[2025-07-04 | 23:34:54]||admin Existed the Menu page 
+[2025-07-04 | 23:37:29]||admin  Login SuccessFully 
+[2025-07-04 | 23:37:29]||admin Visted the Menu page 
+[2025-07-04 | 23:37:41]||Admin Changed the Pasta Stock 34
+[2025-07-04 | 23:37:45]||admin Existed the Menu page 
+[2025-07-04 | 23:41:08]||admin  Login SuccessFully 
+[2025-07-04 | 23:41:08]||admin Visted the Menu page 
+[2025-07-04 | 23:41:27]||admin Viewed the Employ list
+[2025-07-04 | 23:41:29]||admin Viewed the Employ list
+[2025-07-04 | 23:41:38]||admin Viewed the Logs 
+[2025-07-04 | 23:42:30]||admin  Login SuccessFully 
+[2025-07-04 | 23:42:30]||admin Visted the Menu page 
+[2025-07-04 | 23:42:34]||admin Viewed the Logs 
+[2025-07-04 | 23:43:40]||admin  Login SuccessFully 
+[2025-07-04 | 23:43:40]||admin Visted the Menu page 
+[2025-07-04 | 23:43:43]||admin Viewed the Employ list
+[2025-07-04 | 23:45:56]||admin  Login SuccessFully 
+[2025-07-04 | 23:45:56]||admin Visted the Menu page 
+[2025-07-04 | 23:46:00]||admin Viewed the Employ list
+[2025-07-04 | 23:46:01]||admin Viewed the Logs 
+[2025-07-04 | 23:46:03]||admin Existed the Menu page 
+[2025-07-04 | 23:51:36]||admin  Login SuccessFully 
+[2025-07-04 | 23:51:36]||admin Visted the Menu page 
+[2025-07-04 | 23:51:38]||admin Viewed the Employ list
+[2025-07-04 | 23:51:39]||admin Viewed the Logs 
+[2025-07-04 | 23:51:41]||admin Existed the Menu page 
+[2025-07-04 | 23:55:54]||admin  Login SuccessFully 
+[2025-07-04 | 23:55:54]||admin Visted the Menu page 
+[2025-07-04 | 23:55:59]||admin Viewed the Employ list
+[2025-07-04 | 23:55:59]||admin Viewed the Logs 
+[2025-07-04 | 23:56:04]||admin Existed the Menu page 
+[2025-07-04 | 23:58:33]||admin  Login SuccessFully 
+[2025-07-04 | 23:58:33]||admin Visted the Menu page 
+[2025-07-04 | 23:59:07]||SAD News admin  Removed ManagerNO3 as a 'Manager'
+[2025-07-04 | 23:59:25]||admin  Added Shadab as a 'Manager'
+[2025-07-04 | 23:59:35]||admin Existed the Menu page 
+[2025-07-05 | 00:40:58]||shadab  Attemped A log IN 
+[2025-07-05 | 00:40:58]||  Invalid Password 
+[2025-07-05 | 00:41:26]||managerNo1  Login SuccessFully 
+[2025-07-05 | 00:41:26]||managerNo1  Login SuccessFully 
+[2025-07-05 | 00:41:26]||managerNo1  Login In successfully 
+[2025-07-05 | 00:41:52]||shadab  Attemped A log IN 
+[2025-07-05 | 00:41:52]||managerNo1  Invalid Password 
+[2025-07-05 | 00:46:06]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:46:06]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:46:06]||Shadab  Login In successfully 
+[2025-07-05 | 00:50:22]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:50:22]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:50:22]||Shadab  Login In successfully 
+[2025-07-05 | 00:51:17]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:51:17]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:52:10]||Shadab  Attemped A log IN 
+[2025-07-05 | 00:52:10]||  Invalid Password 
+[2025-07-05 | 00:52:48]||Shdab  Attemped A log IN 
+[2025-07-05 | 00:52:48]||  Invalid Password 
+[2025-07-05 | 00:53:15]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:53:15]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:54:59]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:54:59]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:55:33]||Shaddy  Attemped A log IN 
+[2025-07-05 | 00:55:33]||  Invalid Password 
+[2025-07-05 | 00:55:54]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:55:54]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:57:09]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:57:09]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:57:22]||shadab  Attemped A log IN 
+[2025-07-05 | 00:57:22]||Shadab  Invalid Password 
+[2025-07-05 | 00:58:28]||Shdab  Attemped A log IN 
+[2025-07-05 | 00:58:28]||  Invalid Password 
+[2025-07-05 | 00:58:43]||Shdan  Attemped A log IN 
+[2025-07-05 | 00:58:43]||  Invalid Password 
+[2025-07-05 | 00:59:00]||Shdab  Attemped A log IN 
+[2025-07-05 | 00:59:00]||  Invalid Password 
+[2025-07-05 | 00:59:09]||Shadab  Attemped A log IN 
+[2025-07-05 | 00:59:09]||  Invalid Password 
+[2025-07-05 | 00:59:30]||Shadab  Login SuccessFully 
+[2025-07-05 | 00:59:30]||Shadab  Login SuccessFully 
+[2025-07-05 | 01:00:39]||Shadab  Login SuccessFully 
+[2025-07-05 | 01:00:39]||Shadab  Login SuccessFully 
+[2025-07-05 | 01:02:09]||Shadab Added A New Item Having ID 2 With Name Burger Stock value 20
+[2025-07-05 | 01:02:09]||Shadab Requesta a Chef Departnment for Recipe of this Item  With Name Burger Stock value 20
+[2025-07-05 | 01:02:38]||Shadab Added A New Item Having ID 3 With Name Burger Stock value 20
+[2025-07-05 | 01:02:38]||Shadab Requesta a Chef Departnment for Recipe of this Item  With Name Burger Stock value 20
+[2025-07-05 | 01:03:04]||Shadab Added A New Item Having ID 4 With Name Biryani Stock value 15
+[2025-07-05 | 01:03:04]||Shadab Requesta a Chef Departnment for Recipe of this Item  With Name Biryani Stock value 15
+[2025-07-05 | 01:03:19]||Shadab Added A New Item Having ID 5 With Name pepsi Stock value 40
+[2025-07-05 | 01:03:19]||Shadab Requesta a Chef Departnment for Recipe of this Item  With Name pepsi Stock value 40
+[2025-07-05 | 01:03:58]||Shadab Added A New Item Having ID 6 With Name ZingerWrap Stock value 12
+[2025-07-05 | 01:03:58]||Shadab Requesta a Chef Departnment for Recipe of this Item  With Name ZingerWrap Stock value 12
+[2025-07-05 | 01:04:10]||Shadab Added A New Item Having ID 7 With Name Qorma Stock value 10
+[2025-07-05 | 01:04:10]||Shadab Requesta a Chef Departnment for Recipe of this Item  With Name Qorma Stock value 10
+[2025-07-05 | 01:04:21]||Shadab Added A New Item Having ID 8 With Name Sprite Stock value 35
+[2025-07-05 | 01:04:21]||Shadab Requesta a Chef Departnment for Recipe of this Item  With Name Sprite Stock value 35
+[2025-07-05 | 01:04:41]||Shadab  Login SuccessFully 
+[2025-07-05 | 01:04:41]||Shadab  Login SuccessFully 
+[2025-07-05 | 01:05:03]||Shadab Added A New Item Having ID 9 With Name Fries Stock value 30
+[2025-07-05 | 01:05:03]||Shadab Requesta a Chef Departnment for Recipe of this Item  With Name Fries Stock value 30
+[2025-07-05 | 01:05:14]||Shadab Added A New Item Having ID 10 With Name Karahi Stock value 8
+[2025-07-05 | 01:05:14]||Shadab Requesta a Chef Departnment for Recipe of this Item  With Name Karahi Stock value 8
+[2025-07-05 | 01:05:25]||Shadab Added A New Item Having ID 11 With Name Fanta Stock value 25
+[2025-07-05 | 01:05:25]||Shadab Requesta a Chef Departnment for Recipe of this Item  With Name Fanta Stock value 25
+[2025-07-05 | 01:05:37]||Exiting the Manager Menu 
+[2025-07-05 | 01:27:58]||chef1  Login SuccessFully 
+[2025-07-05 | 01:27:58]||chef1  Login SuccessFully 
+[2025-07-05 | 07:03:05]||chef1  Login SuccessFully 
+[2025-07-05 | 07:03:05]||chef1  Login SuccessFully 
+[2025-07-05 | 07:10:55]||chef1  Login SuccessFully 
+[2025-07-05 | 07:10:55]||chef1  Login SuccessFully 
+[2025-07-05 | 07:12:05]||chef1 Added the Recipe of  #id No. 1 with Item Name Burger
+[2025-07-05 | 07:15:24]||chef  Attemped  a log-in (Failed) 
+[2025-07-05 | 07:15:38]||chef  Attemped  a log-in (Failed) 
+[2025-07-05 | 07:15:46]||chef1  Login SuccessFully 
+[2025-07-05 | 07:15:46]||chef1  Login SuccessFully 
+[2025-07-05 | 07:18:48]||chef1 Added the Recipe of  #id No. 4 with Item Name ZingerWrap
+[2025-07-05 | 07:18:52]||chef1 Exit the Menu Page 
+[2025-07-05 | 07:20:36]||chef1  Login SuccessFully 
+[2025-07-05 | 07:20:36]||chef1  Login SuccessFully 
+[2025-07-05 | 07:21:14]||chef1 Added the Recipe of  #id No. 7 with Item Name Fties
+[2025-07-05 | 07:22:17]||chef1 Added the Recipe of  #id No. 2 with Item Name Biryani
+[2025-07-05 | 07:23:12]||chef1 Added the Recipe of  #id No. 5 with Item Name Qorma
+[2025-07-05 | 07:23:55]||chef1 Added the Recipe of  #id No. 8 with Item Name katahi
+[2025-07-05 | 07:25:25]||chef1  Login SuccessFully 
+[2025-07-05 | 07:25:25]||chef1  Login SuccessFully 
+[2025-07-05 | 07:27:10]||chef  Attemped  a log-in (Failed) 
+[2025-07-05 | 07:27:20]||chef1  Login SuccessFully 
+[2025-07-05 | 07:27:20]||chef1  Login SuccessFully 
+[2025-07-05 | 07:28:16]||chef1 Updated  the Recipe of  #id No.IteName 1.Burger
+[2025-07-05 | 07:30:22]||chef1  Login SuccessFully 
+[2025-07-05 | 07:30:22]||chef1  Login SuccessFully 
+[2025-07-05 | 07:30:36]||chef1 Updated  the Recipe of  #id No.IteName 1.Burger
+[2025-07-05 | 07:31:17]||chef2  Login SuccessFully 
+[2025-07-05 | 07:31:17]||chef2  Login SuccessFully 
+[2025-07-05 | 07:31:25]||chef1  Login SuccessFully 
+[2025-07-05 | 07:31:25]||chef1  Login SuccessFully 
+[2025-07-05 | 07:31:28]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:28]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:28]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:28]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:28]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:28]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:28]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:28]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:28]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:56]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:56]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:56]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:56]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:56]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:56]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:56]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:56]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:31:56]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:33:24]||chef  Attemped  a log-in (Failed) 
+[2025-07-05 | 07:33:31]||chef1  Login SuccessFully 
+[2025-07-05 | 07:33:31]||chef1  Login SuccessFully 
+[2025-07-05 | 07:33:34]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:33:34]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:33:34]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:33:34]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:33:34]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:33:34]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:33:34]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:33:34]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:33:34]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:34:42]||chef1  Login SuccessFully 
+[2025-07-05 | 07:34:42]||chef1  Login SuccessFully 
+[2025-07-05 | 07:34:45]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:34:45]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:34:45]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:34:45]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:34:45]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:34:45]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:34:45]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:34:45]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:34:45]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:35:08]||chef  Attemped  a log-in (Failed) 
+[2025-07-05 | 07:35:15]||chef123  Attemped  a log-in (Failed) 
+[2025-07-05 | 07:35:24]||chef1  Login SuccessFully 
+[2025-07-05 | 07:35:24]||chef1  Login SuccessFully 
+[2025-07-05 | 07:35:26]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:35:26]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:35:26]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:35:26]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:35:26]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:35:26]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:35:26]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:35:26]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:35:26]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 07:36:47]||chef1  Login SuccessFully 
+[2025-07-05 | 07:36:47]||chef1  Login SuccessFully 
+[2025-07-05 | 07:38:08]||chef1 Updated  the Recipe of  #id No.IteName 1.Burger
+[2025-07-05 | 07:38:10]||chef1 Exit the Menu Page 
+[2025-07-05 | 07:51:11]||shadab  Login SuccessFully 
+[2025-07-05 | 07:51:11]||shadab  Login SuccessFully 
+[2025-07-05 | 07:51:56]||d  Attemped  a log-in (Failed) 
+[2025-07-05 | 07:52:21]||shadab  Attemped  a log-in (Failed) 
+[2025-07-05 | 07:52:32]||shadab  Login SuccessFully 
+[2025-07-05 | 07:52:32]||shadab  Login SuccessFully 
+[2025-07-05 | 08:02:24]||shadab  Attemped  a log-in (Failed) 
+[2025-07-05 | 08:02:35]||shadab  Login SuccessFully 
+[2025-07-05 | 08:02:35]||shadab  Login SuccessFully 
+[2025-07-05 | 08:03:45]||shadab  Login SuccessFully 
+[2025-07-05 | 08:03:45]||shadab  Login SuccessFully 
+[2025-07-05 | 08:05:37]||shadab  Login SuccessFully 
+[2025-07-05 | 08:05:37]||shadab  Login SuccessFully 
+[2025-07-05 | 08:08:35]||shadab  Login SuccessFully 
+[2025-07-05 | 08:08:35]||shadab  Login SuccessFully 
+[2025-07-05 | 08:09:46]||shdab  Attemped  a log-in (Failed) 
+[2025-07-05 | 08:09:57]||shadab  Attemped  a log-in (Failed) 
+[2025-07-05 | 08:10:11]||shadab  Attemped  a log-in (Failed) 
+[2025-07-05 | 08:10:33]||shadab  Login SuccessFully 
+[2025-07-05 | 08:10:33]||shadab  Login SuccessFully 
+[2025-07-05 | 08:13:24]||shadab  Login SuccessFully 
+[2025-07-05 | 08:13:24]||shadab  Login SuccessFully 
+[2025-07-05 | 08:13:55]||shadab  Login SuccessFully 
+[2025-07-05 | 08:13:55]||shadab  Login SuccessFully 
+[2025-07-05 | 08:15:16]||shadab  Login SuccessFully 
+[2025-07-05 | 08:15:16]||shadab  Login SuccessFully 
+[2025-07-05 | 08:21:34]||shadab  Login SuccessFully 
+[2025-07-05 | 08:21:34]||shadab  Login SuccessFully 
+[2025-07-05 | 08:23:08]||shadab  Login SuccessFully 
+[2025-07-05 | 08:23:08]||shadab  Login SuccessFully 
+[2025-07-05 | 08:24:17]||shadab  Login SuccessFully 
+[2025-07-05 | 08:24:17]||shadab  Login SuccessFully 
+[2025-07-05 | 08:25:45]||shadab  Login SuccessFully 
+[2025-07-05 | 08:25:45]||shadab  Login SuccessFully 
+[2025-07-05 | 08:57:20]||shadab  Login SuccessFully 
+[2025-07-05 | 08:57:20]||shadab  Login SuccessFully 
+[2025-07-05 | 09:00:26]||shadab  Login SuccessFully 
+[2025-07-05 | 09:00:26]||shadab  Login SuccessFully 
+[2025-07-05 | 09:02:02]||shadab  Login SuccessFully 
+[2025-07-05 | 09:02:02]||shadab  Login SuccessFully 
+[2025-07-05 | 09:02:18]||shadab Changed the Burger Stock 8
+[2025-07-05 | 09:12:39]||shadab  Attemped  a log-in (Failed) 
+[2025-07-05 | 09:12:39]||  Invalid Password 
+[2025-07-05 | 09:12:49]||Shadab  Login SuccessFully 
+[2025-07-05 | 09:12:49]||Shadab  Login SuccessFully 
+[2025-07-05 | 09:31:35]||shadab  Attemped  a log-in (Failed) 
+[2025-07-05 | 09:31:45]||shadab  Attemped  a log-in (Failed) 
+[2025-07-05 | 09:31:55]||shadab  Login SuccessFully 
+[2025-07-05 | 09:31:55]||shadab  Login SuccessFully 
+[2025-07-05 | 09:32:16]||shadab Changed the Burger Stock 4
+[2025-07-05 | 09:40:11]||admin  Login SuccessFully 
+[2025-07-05 | 09:40:11]||admin Visted the Menu page 
+[2025-07-05 | 09:40:29]||admin  Added manager3 as a 'manager'
+[2025-07-05 | 09:40:42]||SAD News admin  Removed manager3 as a 'manager'
+[2025-07-05 | 09:40:51]||admin Viewed the Employ list
+[2025-07-05 | 09:40:53]||admin Viewed the Logs 
+[2025-07-05 | 09:41:04]||Admin Changed the Burger Stock 93
+[2025-07-05 | 09:41:07]||admin Existed the Menu page 
+[2025-07-05 | 09:42:37]||admin  Login SuccessFully 
+[2025-07-05 | 09:42:37]||admin Visted the Menu page 
+[2025-07-05 | 09:42:40]||admin Existed the Menu page 
+[2025-07-05 | 09:42:54]||shadab  Attemped  a log-in (Failed) 
+[2025-07-05 | 09:42:54]||  Invalid Password 
+[2025-07-05 | 09:43:06]||chef1  Login SuccessFully 
+[2025-07-05 | 09:43:06]||chef1  Login SuccessFully 
+[2025-07-05 | 09:43:08]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:43:08]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:43:08]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:43:08]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:43:08]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:43:08]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:43:08]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:43:08]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:43:08]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:43:11]||chef1 Exit the Menu Page 
+[2025-07-05 | 09:43:24]||shadab  Login SuccessFully 
+[2025-07-05 | 09:43:24]||shadab  Login SuccessFully 
+[2025-07-05 | 09:48:39]||admin  Login SuccessFully 
+[2025-07-05 | 09:48:39]||admin Visted the Menu page 
+[2025-07-05 | 09:48:44]||admin Viewed the Employ list
+[2025-07-05 | 09:49:13]||admin  Login SuccessFully 
+[2025-07-05 | 09:49:13]||admin Visted the Menu page 
+[2025-07-05 | 09:49:16]||admin Viewed the Employ list
+[2025-07-05 | 09:49:17]||admin Existed the Menu page 
+[2025-07-05 | 09:49:26]||shadab  Attemped  a log-in (Failed) 
+[2025-07-05 | 09:49:26]||  Invalid Password 
+[2025-07-05 | 09:49:38]||chef1  Login SuccessFully 
+[2025-07-05 | 09:49:38]||chef1  Login SuccessFully 
+[2025-07-05 | 09:49:40]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:49:40]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:49:40]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:49:40]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:49:40]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:49:40]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:49:40]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:49:40]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:49:40]||chef1 Viewd the Recipe List  #id No. 
+[2025-07-05 | 09:49:42]||chef1 Exit the Menu Page 
+[2025-07-05 | 09:50:01]||shadab  Attemped  a log-in (Failed) 
+[2025-07-28 | 19:56:56]||admin  Login SuccessFully 
+[2025-07-28 | 19:56:56]||admin Visted the Menu page 
+[2025-07-28 | 19:57:06]||admin Existed the Menu page 
+[2025-07-28 | 19:57:31]||shadab  Attemped  a log-in (Failed) 
+[2025-07-28 | 19:57:31]||  Invalid Password 
+[2025-07-28 | 19:57:52]||Shadab  Login SuccessFully 
+[2025-07-28 | 19:57:52]||Shadab  Login SuccessFully 
+[2025-07-28 | 19:58:32]||Shadab Added A New Item Having ID 9 With Name burger Stock value 10
+[2025-07-28 | 19:58:32]||Shadab Requesta a Chef Departnment for Recipe of this Item  With Name burger Stock value 10
+[2025-07-28 | 19:58:39]||Exiting the Manager Menu 
+[2025-07-28 | 19:59:11]||chefchef1  Attemped  a log-in (Failed) 
+[2025-07-28 | 19:59:21]||chef1  Login SuccessFully 
+[2025-07-28 | 19:59:21]||chef1  Login SuccessFully 
+[2025-07-28 | 19:59:27]||chef1 Exit the Menu Page 
+[2025-07-28 | 19:59:54]||shadab  Login SuccessFully 
+[2025-07-28 | 19:59:54]||shadab  Login SuccessFully 

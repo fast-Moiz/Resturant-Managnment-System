@@ -1,0 +1,14 @@
+Menu Credentials
+idNumber,ItemName,Price,Stock,Category
+
+
+1,Burger,450,93,FastFood
+2,Biryani,300,15,Meal
+3,pepsi,100,40,Drink.Bur
+4,ZingerWrap,550,12,FastFood
+5,Qorma,400,10,Meal
+6,Sprite,100,35,Drink
+7,Fries,250,30,FastFood
+8,Karahi,750,8,Meal
+9,Fanta,100,25,Drink
+9,burger,120,10,Food

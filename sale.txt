@@ -1,0 +1,6 @@
+sale 
+Time || Action
+
+
+[2025-07-05 | 09:02:18]||shadab orderd ID No 1
+[2025-07-05 | 09:32:15]||shadab orderd ID No 1 Qnatites 4

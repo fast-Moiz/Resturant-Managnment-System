@@ -1,0 +1,82 @@
+Recipes Credentials
+Id Number. Item Name
+
+
+1.Burger
+Ingredients.
+1.Bun
+2.patty
+3.
+4.lettuce
+5.cheese
+6.sausces
+.
+Steps.
+1.Grill patty
+2.toast bun
+3.aseemble and serve
+.
+4.ZingerWrap
+
+Ingredients.
+1.Crispy Chicken 
+2.tortuilla
+3.lettuce
+4.mayo
+5.Oil
+.
+
+Steps.
+1.Fry zinger
+2.wrap with mayo  lettuce and all the fillings
+.
+7.Fries
+
+Ingredients.
+1.Potatoes
+2.salt
+3.Oil
+.
+
+Steps.
+1.sice and deep fry unyill golden
+.
+2.Biryani
+
+Ingredients.
+1.Chicken
+2.rice
+3.biryani masala
+4.yougurt
+.
+
+Steps.
+1.cook chicken with spieces
+2.layer with rice stream
+3.steam
+.
+5.Qorma
+
+Ingredients.
+1.Meat
+2.Yougurt
+3.Onions
+4.ghee
+.
+
+Steps.
+1.spieces
+2.Fry onions cokk thhe menain in yougurt spice mix
+.
+8.Karahi
+
+Ingredients.
+1.chicken
+2.tomatoes
+3.
+4.garlic
+.
+
+Steps.
+1.chilies
+.

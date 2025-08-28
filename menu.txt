@@ -1,0 +1,7 @@
+Menu Credentials
+idNumber,ItemName,Price,Stock,Category
+
+
+1,Chicken,560,57,MEAL
+2,Pasta,333,4,Meal
+3,Biryani,560,122,Meal

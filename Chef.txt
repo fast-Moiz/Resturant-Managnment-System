@@ -1,0 +1,7 @@
+Chef Credentials
+username,password
+
+
+chef1,chef123
+chef2,c143
+Shahid,shdabad123
